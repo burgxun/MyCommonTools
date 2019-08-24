@@ -1,0 +1,9 @@
+D:\程序代码\github\burgxun\MyCommonTools\UtilLibrary\UtilLibrary\bin\Debug\netstandard2.0\UtilLibrary.deps.json
+D:\程序代码\github\burgxun\MyCommonTools\UtilLibrary\UtilLibrary\bin\Debug\netstandard2.0\UtilLibrary.dll
+D:\程序代码\github\burgxun\MyCommonTools\UtilLibrary\UtilLibrary\bin\Debug\netstandard2.0\UtilLibrary.pdb
+D:\程序代码\github\burgxun\MyCommonTools\UtilLibrary\UtilLibrary\obj\Debug\netstandard2.0\UtilLibrary.csprojAssemblyReference.cache
+D:\程序代码\github\burgxun\MyCommonTools\UtilLibrary\UtilLibrary\obj\Debug\netstandard2.0\UtilLibrary.csproj.CoreCompileInputs.cache
+D:\程序代码\github\burgxun\MyCommonTools\UtilLibrary\UtilLibrary\obj\Debug\netstandard2.0\UtilLibrary.AssemblyInfoInputs.cache
+D:\程序代码\github\burgxun\MyCommonTools\UtilLibrary\UtilLibrary\obj\Debug\netstandard2.0\UtilLibrary.AssemblyInfo.cs
+D:\程序代码\github\burgxun\MyCommonTools\UtilLibrary\UtilLibrary\obj\Debug\netstandard2.0\UtilLibrary.dll
+D:\程序代码\github\burgxun\MyCommonTools\UtilLibrary\UtilLibrary\obj\Debug\netstandard2.0\UtilLibrary.pdb
